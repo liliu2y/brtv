@@ -1,9 +1,8 @@
 北京频道,#genre#
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1770973202&sign=5be8523842488d20e8f0deb590b1c0a9
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1770973203&sign=2aadf236cdefcb8875c429a910fd3d4e
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1770973203&sign=66ec2ee63ed3905fbb91783d74a22eca
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1770973204&sign=139d1dd69e2dadd3fb476263555e8d95
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1770973204&sign=cd0890d085e72d836f1f4485a433731e
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1770973205&sign=a37f23dedca165e21237ad40be070f09
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1770973206&sign=4388b05b45869a0e2150390148245120
-纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1770973207&sign=8988c0d3efd4b89601b5bb5e35521538
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1770974402&sign=d4d7f3752266c0cb19d0629430bceac1
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1770974402&sign=d3def2b38835d1f3d34c0c6264bd5213
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1770974403&sign=0f34f03741a52a677760a0e132048fde
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1770974404&sign=134582ac71f75737f9d6a4f212df9406
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1770974410&sign=7816ee03704d241956cfc8a6d2872465
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1770974411&sign=27f00f1b0610e7b4a13815a41e70ff74
+纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1770974412&sign=c2e5783ba86aa464edc6a6ec135b234f
