@@ -1,6 +1,11 @@
 北京频道,#genre#
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1772778007&sign=ddd6dddd0795d2a642b12e3ef5657a25
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1772778010&sign=45fc4b76f0c0cada9777a7f675701da6
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1772778022&sign=3a9c28d152d0d6207524ee1f54faaa4a
-北京体育休闲,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1772778027&sign=b14c2bc15fa02e8e7080ec6301d67b0b
-纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1772778028&sign=d57aaa3076f78f4bbba742639e283a7b
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1772779202&sign=24fa7ce1d93a0f1cb966d3b22fce7290
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1772779202&sign=f791b588d8b454c3083fca0683ffa0a6
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1772779203&sign=3ab03f8299da004511ba07748c7a2984
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1772779203&sign=c22c431fb8fd05950e6d5b15039a555c
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1772779204&sign=63cef60591307d382b18a20c2799332a
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1772779205&sign=60b03eedea401747c48bd3494af50e97
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1772779205&sign=ab379ac22d0dc19d2dc68e1ff61d8ca2
+北京体育休闲,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1772779206&sign=17185c0680712aca8462f145534c47e9
+纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1772779206&sign=6b7e3441f372db003b2df21b4adca62d
+卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1772779207&sign=89846285e2ca2fbd90fc6bf54cbf167c
