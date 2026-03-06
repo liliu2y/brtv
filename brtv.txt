@@ -1,7 +1,8 @@
 北京频道,#genre#
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1772808002&sign=dad7fb3cca25f262f097ded76bdc0591
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1772808008&sign=f9bd0a4eec21b5151f603824b7c02966
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1772808011&sign=b1cb905439cae25367c0b7c888a6405f
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1772808012&sign=78e4f9bfee22ceb167f49b0e5509c805
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1772808013&sign=b98042a34aff8fce5ae44306fe130a02
-北京体育休闲,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1772808019&sign=1721908705832e0c59e0d2b44db26bf2
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1772809202&sign=0754fb25429bbbcfd032acb37fe83c9c
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1772809203&sign=0cf90e2a5fb75c848cd2512fb5031aec
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1772809205&sign=0d4469f6449bda1ff914c62b5ead7305
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1772809206&sign=6cccf6b35ca86a6c65cdc795c5eebb6e
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1772809217&sign=567e185f1d436031f2e03d26b0088d94
+北京体育休闲,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1772809218&sign=0acc9a22214173eac2dd66b4b353a1bb
+卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1772809219&sign=d8142db626c767189ce4d14488cdb4d4
