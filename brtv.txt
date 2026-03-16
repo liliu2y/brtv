@@ -1,8 +1,10 @@
 北京频道,#genre#
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1773627607&sign=9ac9fbe6d82f1c13cdac84f3d39ea771
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1773627608&sign=bf954d73274751ac669dfd6249f9aef9
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1773627609&sign=f5a25e5a19ec6a1efd3403a6baa1b97b
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1773627609&sign=8c9ce4caa048a796254856cb226b010d
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1773627610&sign=dc200be3b1a0ed703a589e973bf792b3
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1773627611&sign=84cf04842a636b4b9ea29b6476d5e941
-纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1773627616&sign=71e139669df05bc07e6b0aa256601d1e
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1773628801&sign=6176070e5685da8c867b8faa46a83918
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1773628802&sign=0aa64ca4bb7fbcfcbcb6b505e725a4e1
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1773628808&sign=a5d2a549020b7e263997bcccde3f4b33
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1773628808&sign=8132c872852e52204681bd78b259a4e5
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1773628809&sign=20ef07d5da90d01b29043e9f5501dfd6
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1773628810&sign=e5a8ec6dff365642d3fbd7c2e0b11be7
+北京体育休闲,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=1773628810&sign=d8989ade7b9522d91df80a417e37edfb
+纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1773628811&sign=29854d72869e711a6aa0411188e7761f
+卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1773628811&sign=e5486a51af417b0febd5610ad129276a
