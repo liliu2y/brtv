@@ -1,2 +1,2 @@
 北京频道,#genre#
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1775150401&sign=cf93102f840daeddaaab426b0b7f3bdf
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s104/index.m3u8?time=1775151602&sign=7f344ef4615a4ca67e6e46aee3cb3184
