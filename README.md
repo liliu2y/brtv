@@ -1,4 +1,4 @@
-Last Update: 2026-06-13 19:00:11 CST
+Last Update: 2026-06-13 19:20:13 CST
 
 Auto update BRTV lists.
 
